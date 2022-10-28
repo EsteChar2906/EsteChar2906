@@ -1,18 +1,16 @@
-### Hi there 👋
+![api](https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif)
 
-<!--
-**EsteChar2906/EsteChar2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola, soy Carlos 👋
+_____________________________________________________________________________________
+Full Stack Web Developer
 
-Here are some ideas to get you started:
+Soy una persona apasionada por la naturaleza, anteriormente me encontraba estudiando biología 🌅🐠🐙y llegué a cursar 8 semestres de esta apasionante carrera.
+Actualmente he tomado un rumbo muy diferente entrando en un nuevo campo, lo cual, ha implicado muchos retos para mí dejando como recomenzá la construcción de un nuevo conocimiento 📖 ⚛️. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy una persona optimista y dispuesto a enfrentar nuevos desafíos para así ir aprendiendo en el camino y reforzando mi conocimiento 🧠.
 
-hola
+Mi interés es el desarrollo web, principalmente desde el lado del Back-end 💻.
+
+
+![JavaScript](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
