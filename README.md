@@ -1,6 +1,6 @@
-![api](https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif)
+<img src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif" width="1000" height="300" />
 
-### Hola, soy Carlos 👋
+### Hola, soy [Carlos Pacheco](www.linkedin.com/in/carlos-alberto-pacheco-pedraza-936499144/) 👋
 _____________________________________________________________________________________
 Full Stack Web Developer
 
