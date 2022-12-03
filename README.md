@@ -4,8 +4,9 @@
 _____________________________________________________________________________________
 Full Stack Web Developer
 
-Soy una persona apasionada por la naturaleza, anteriormente me encontraba estudiando biología 🌅🐠🐙y llegué a cursar 8 semestres de esta apasionante carrera.
-Actualmente he tomado un rumbo muy diferente entrando en un nuevo campo, lo cual, ha implicado muchos retos para mí dejando como recomenzá la construcción de un nuevo conocimiento 📖 ⚛️. 
+Soy una persona apasionada por la naturaleza, anteriormente me encontraba estudiando biología 🌅🐠🐙y llegué a cursar 8 semestres de esta apasionante carrera. Este paso me permitio adquirir las habilidades para pensar criticamente y llevando siempre una metodologia, el popular Metodo Cientifico, el cual, me ha servido para entender mucho mejor todo este maravilloso mundo de la programacion.
+
+Al parecer he tomado un rumbo diferente, lo cual, ha implicado muchos retos, pero a cambio a dejado como recomenzá la construcción de un nuevo conocimiento 📖 ⚛️. Y el amor por algo que siempre me ha llamado la atencion desde pequeño.
 
 Soy una persona optimista y dispuesto a enfrentar nuevos desafíos para así ir aprendiendo en el camino y reforzando mi conocimiento 🧠.
 
@@ -17,8 +18,7 @@ Mi interés es el desarrollo web, principalmente desde el lado del Back-end 💻
 #### Lenguajes y herramientas 🧰
 _____________________________________________________________________________________
 
-![image](https://user-images.githubusercontent.com/74948016/198751168-d7656258-53e1-4530-adc2-88f57125f8e5.png) ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8nSq5T1jzI0H1t0Q6l-U2PPwAtFCzRwHIfrQozIhlHsh_oc-ihlasJ2eldgHto-oV_TU&usqp=CAU)
-
+![image](https://user-images.githubusercontent.com/74948016/198751168-d7656258-53e1-4530-adc2-88f57125f8e5.png)![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8nSq5T1jzI0H1t0Q6l-U2PPwAtFCzRwHIfrQozIhlHsh_oc-ihlasJ2eldgHto-oV_TU&usqp=CAU) ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png)
 #### Proyectos
 ______________________________________________________________________________________
 **Por cargar**
