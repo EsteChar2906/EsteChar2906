@@ -21,7 +21,23 @@ ________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/74948016/198751168-d7656258-53e1-4530-adc2-88f57125f8e5.png)![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8nSq5T1jzI0H1t0Q6l-U2PPwAtFCzRwHIfrQozIhlHsh_oc-ihlasJ2eldgHto-oV_TU&usqp=CAU) ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png)
 #### Proyectos
 ______________________________________________________________________________________
-**Por cargar**
+
+###### Henry Countries
+Single page application basada en todas los paises del mundo y sus datos. Adicionalmente, se pueden agregar actividades turisticas a realizar en cada pais.
+Desarrolle autonomamente esta aplicacion full stack, apoyandome en las siguientes tecnologias:
+Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL
+
+<a href="https://pi-countries-main-nine.vercel.app/" fontSize="34">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
+      Henry Countries Deploy
+</a>
+</br>
+<div aling="row">
+  <img src="https://user-images.githubusercontent.com/74948016/205738202-d85d70c3-2f3e-4442-a7da-85093e05a755.png"  width="333" height="205" />
+  <img src="https://user-images.githubusercontent.com/74948016/205739397-ebe5a800-d4fd-47ee-a80b-fa1456d52a83.png" width="333" height="205" />
+  <img src="https://user-images.githubusercontent.com/74948016/205739519-d8a4e1c3-e885-497e-be97-18447b9dab1c.png" width="333" height="205" />
+
+</div>
 
 ### Contactame 📫
 ______________________________________________________________________________________
