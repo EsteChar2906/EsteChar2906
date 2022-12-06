@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif" width="1000" height="300" />
+<img src="https://raw.githubusercontent.com/pau1fitz/node-gif/master/example.gif" width="1000" height="300" />
 
 ### Hola, soy [Carlos Pacheco][linkedin] 👋
 _____________________________________________________________________________________
