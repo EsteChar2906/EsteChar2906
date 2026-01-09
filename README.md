@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/programming.gif)
+<img src="https://cdn.vectorstock.com/i/500p/20/83/3d-laptop-software-development-banner-vector-46322083.jpg" width="1000" height="300" />
 
 
 # 👋 Hola, soy **Carlos Pacheco (Charly)**
